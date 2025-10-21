@@ -29,4 +29,5 @@ Mejorar el rendimiento del equipo de soporte técnico en Fintech Verde Colombia,
 ## Plazo Definido
 
 • 3 meses para implementar herramientas y capacitar al equipo.
+
 • 6 meses para ver resultados tangibles en tiempos de respuesta, satisfacción del cliente y cumplimiento de KPIs.
