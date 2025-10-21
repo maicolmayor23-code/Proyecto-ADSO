@@ -98,7 +98,7 @@ Historia de Usuario
 
 Como cliente del hotel, quiero consultar en línea la disponibilidad de habitaciones, reservas y eventos, para que pueda obtener la información de forma inmediata y tomar decisiones rápidas sin perder tiempo ni oportunidades de reserva.
 
-#### 14. ¿El sistema debe ser accesible desde dispositivos móviles y diferentes navegadores?
+### 14. ¿El sistema debe ser accesible desde dispositivos móviles y diferentes navegadores?
 
 #### RF 002. – Accesibilidad multiplataforma
 
