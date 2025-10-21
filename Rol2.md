@@ -15,10 +15,10 @@ Mejorar el rendimiento del equipo de soporte técnico en Fintech Verde Colombia,
 
 ## Objetivos Mediables
 
-1.Reducir el tiempo promedio de respuesta en un 20% en los próximos 3 meses.
-2.Lograr que el equipo participe al 100% en las capacitaciones mensuales.
-3.Introducir 2 nuevas herramientas para automatizar procesos en los próximos 3 meses.
-4.Cumplir con al menos el 90% de los KPIs establecidos en los próximos 6 meses.
+1. Reducir el tiempo promedio de respuesta en un 20% en los próximos 3 meses.
+2. Lograr que el equipo participe al 100% en las capacitaciones mensuales.
+3. Introducir 2 nuevas herramientas para automatizar procesos en los próximos 3 meses.
+4. Cumplir con al menos el 90% de los KPIs establecidos en los próximos 6 meses.
 
 ## Objetivos Relevantes
 
