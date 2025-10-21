@@ -8,10 +8,10 @@ Mejorar el rendimiento del equipo de soporte técnico en Fintech Verde Colombia,
 
 ## Objetivos Específicos
 
-1.Reducir los tiempos de respuesta y mejorar la resolución de problemas para ofrecer un soporte más ágil y eficiente.
-2.Capacitar al equipo de manera continua para que siempre estemos al tanto de los últimos avances y necesidades del cliente.
-3.Integrar nuevas herramientas tecnológicas que nos ayuden a automatizar tareas repetitivas y a ser más rápidos.
-4.Establecer un sistema de monitoreo de desempeño para asegurarnos de que estamos alcanzando nuestros objetivos y mejorar donde sea necesario.
+1. Reducir los tiempos de respuesta y mejorar la resolución de problemas para ofrecer un soporte más ágil y eficiente.
+2. Capacitar al equipo de manera continua para que siempre estemos al tanto de los últimos avances y necesidades del cliente.
+3. Integrar nuevas herramientas tecnológicas que nos ayuden a automatizar tareas repetitivas y a ser más rápidos.
+4. Establecer un sistema de monitoreo de desempeño para asegurarnos de que estamos alcanzando nuestros objetivos y mejorar donde sea necesario.
 
 ## Objetivos Mediables
 
@@ -22,11 +22,11 @@ Mejorar el rendimiento del equipo de soporte técnico en Fintech Verde Colombia,
 
 ## Objetivos Relevantes
 
-1.Garantizar una experiencia de cliente excelente, asegurándonos de que nuestros tiempos de respuesta sean rápidos y efectivos, especialmente durante la expansión hacia Centroamérica.
-2.Asegurar que todo el equipo esté preparado para afrontar nuevos retos y regulaciones, alineados con los objetivos de la empresa.
-3.Mejorar la productividad del equipo mediante la automatización de tareas, para poder brindar un mejor servicio sin sobrecargar a nadie.
+1. Garantizar una experiencia de cliente excelente, asegurándonos de que nuestros tiempos de respuesta sean rápidos y efectivos, especialmente durante la expansión hacia Centroamérica.
+2. Asegurar que todo el equipo esté preparado para afrontar nuevos retos y regulaciones, alineados con los objetivos de la empresa.
+3. Mejorar la productividad del equipo mediante la automatización de tareas, para poder brindar un mejor servicio sin sobrecargar a nadie.
 
 ## Plazo Definido
 
-•3 meses para implementar herramientas y capacitar al equipo.
-•6 meses para ver resultados tangibles en tiempos de respuesta, satisfacción del cliente y cumplimiento de KPIs.
+• 3 meses para implementar herramientas y capacitar al equipo.
+• 6 meses para ver resultados tangibles en tiempos de respuesta, satisfacción del cliente y cumplimiento de KPIs.
